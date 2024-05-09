@@ -28,7 +28,7 @@ To run this website locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the `index.html`, `hobbies.html`, and `contact.html` files in your web browser.
-3. If you wanna open the website just click this https://ken15152.github.io/PersonalWeb/
+3. You may access this personal website with the link https://ken15152.github.io/PersonalWeb/
 
 ## License
 
